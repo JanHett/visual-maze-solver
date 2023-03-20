@@ -1,0 +1,5 @@
+visual-maze-solver
+.vscode
+data/mazes
+data/output
+.DS_Store
